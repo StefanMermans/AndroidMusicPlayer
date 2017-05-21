@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Apr 17 23:49:17 CEST 2017
+2.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\article_view.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_483e58320b0a9b00624d97813abeb97c8fadc153
+6.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fffd7bbd7995c304da55b219bb5b6a71c0c4eb45
+7.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-large-v4\\news_articles.xml
+5.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\news_articles.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_483e58320b0a9b00624d97813abeb97c8fadc153\\classes.dex
+3.set=DEX
+1.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fffd7bbd7995c304da55b219bb5b6a71c0c4eb45\\classes.dex
+0.set=ANDROID_RESOURCE

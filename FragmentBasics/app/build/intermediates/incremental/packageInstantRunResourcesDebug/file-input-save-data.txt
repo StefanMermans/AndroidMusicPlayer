@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Apr 17 23:49:10 CEST 2017
+2.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-large-v4\\news_articles.xml
+5.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\news_articles.xml
+1.set=ANDROID_RESOURCE
+2.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\article_view.xml
+0.set=ANDROID_RESOURCE

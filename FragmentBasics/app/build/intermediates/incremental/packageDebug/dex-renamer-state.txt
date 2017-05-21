@@ -1,0 +1,7 @@
+#Mon Apr 17 23:49:17 CEST 2017
+base.0=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_483e58320b0a9b00624d97813abeb97c8fadc153
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fffd7bbd7995c304da55b219bb5b6a71c0c4eb45\\classes.dex
+base.1=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fffd7bbd7995c304da55b219bb5b6a71c0c4eb45
+file.0=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_483e58320b0a9b00624d97813abeb97c8fadc153\\classes.dex

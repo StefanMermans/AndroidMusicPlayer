@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\AndroidMusicPlayer\\FragmentBasics\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 52,
+                        "endOffset": 690
+                    }
+                }
+            }
+        ]
+    }
+]

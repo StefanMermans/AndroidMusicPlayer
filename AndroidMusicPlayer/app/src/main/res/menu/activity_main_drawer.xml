@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none" android:id="@+id/navigation_drawer">
+        <item
+            android:id="@+id/nav_artists"
+            android:icon="@drawable/ic_menu_artist"
+            android:title="Artists" />
+        <item
+            android:id="@+id/nav_albums"
+            android:icon="@drawable/ic_menu_albums"
+            android:title="Albums" />
+        <item
+            android:id="@+id/nav_songs"
+            android:icon="@drawable/ic_menu_songs"
+            android:title="Songs" />
+        <item
+            android:id="@+id/nav_songs_playing"
+            android:icon="@drawable/ic_song_playing"
+            android:title="playing"
+            />
+    </group>
+
+</menu>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidMusicPlayer\FragmentBasics\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26b51a00977a0dc3695f8006cdefc64006bf4c9e">
+        <dex dex="D:\AndroidMusicPlayer\FragmentBasics\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fffd7bbd7995c304da55b219bb5b6a71c0c4eb45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidMusicPlayer\FragmentBasics\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\AndroidMusicPlayer\FragmentBasics\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_483e58320b0a9b00624d97813abeb97c8fadc153\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDKs\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidMusicPlayer\FragmentBasics\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_59cb367968ed7ae779b501d6ee93c0fcaf9ede6a\classes.dex" />
+    </item>
+
+</items>

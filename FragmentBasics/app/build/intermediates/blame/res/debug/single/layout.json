@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_articles.xml",
+        "source": "D:\\AndroidMusicPlayer\\FragmentBasics\\app\\src\\main\\res\\layout\\news_articles.xml"
+    },
+    {
+        "merged": "D:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\article_view.xml",
+        "source": "D:\\AndroidMusicPlayer\\FragmentBasics\\app\\src\\main\\res\\layout\\article_view.xml"
+    }
+]

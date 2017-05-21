@@ -1,0 +1,4 @@
+#Mon Apr 17 23:49:16 CEST 2017
+base.0=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_59cb367968ed7ae779b501d6ee93c0fcaf9ede6a
+renamed.0=classes.dex
+file.0=D\:\\AndroidMusicPlayer\\FragmentBasics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_59cb367968ed7ae779b501d6ee93c0fcaf9ede6a\\classes.dex

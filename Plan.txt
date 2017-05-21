@@ -1,0 +1,100 @@
+Log
+Sept. 24 2016
+    - Created list of necessary features
+        1 hour
+Sept. 24 2016
+    - research and testing android development
+        4 hours
+Oct. 5 2016
+    - Created Classes for storing music (Album, Artist and Song)
+        0.5 hours
+    - Figured out how to get permission to access files on the device
+        4 hours
+Oct. 6 2016
+    - Created a list of every available song on the device
+        2 hours
+Oct. 11 2016
+    - Made the list and the overall app design look better
+        4 hours
+Oct. 12 2016
+    - Created a grid View with images off every Album on the device
+        5 hours
+Oct. 15 2016
+    - Research and test fragments
+        2 hours
+Oct. 16 2016
+    - implement fragments
+        - Refactored Existing layouts
+        3 hours
+Oct. 22/23 2016
+    - Created a grid View with every Artist on the device
+        1 hour
+    - Navigation between Views while maintaining filters for
+    artist and album
+        4 hours
+Oct. 28 2016
+    - Created a media Player which plays a song when it is selected
+        2 hours
+Feb. 3 2017
+    - Created a wrapper class around the media player which allows for
+    going forward and backward in a list of songs
+        3 hours
+    - Attempted various methods of show a full screen list of songs
+        2 hours
+Feb. 25/26 2017
+    - Created a view flipper with a list of music which is currently
+    queued in the musicQueuePlayer
+        5 hours
+Mar. 3 2017
+    - Overall code cleanup and minor refactoring
+        3 hours
+Mar. 8 2017
+    - Created a sticky notification displaying data about the
+    currently playing song
+        3 hours
+Mar. 10/11 2017
+    - Attempted to create buttons in the notification that
+    control the musicQueuePlayer
+        4.5 hours
+Mar. 15
+    - Created icons for the app and buttons inside the app
+        2 hours
+Mar. 17
+    - Finishing touches on the app
+        3 hours
+Total time : 58 hours 
+
+Features
+    - List All songs
+        - Internal storage : Done
+        - External SD : Done
+    - Sort list
+        - Artist : Done
+            - Albums : Done
+                - Songs : done
+        - All albums : done
+        - All songs : done
+    - Play music
+        - Play songs consecutively : Done
+        - Seek : done
+        - Pause and continue : done
+        - Lock screen widget : partially done, buttons not fully working
+    - GUI
+        - Hamburger menu : done
+            - Artists : done
+            - Albums : done
+            - All songs : done
+        -Fragments
+            - Artist list (Home) : done
+                - Album list : done
+                    - Song list : done
+            - Song playing : done
+            - Setting : not implemented
+        - Album image during play : done
+        - Album image in list : done
+        - App icon : done
+        - Menu animation : done
+        - Button icons : done
+Notes:
+    - If permission is not granted app should still run. And display a bit of text
+      somewhere telling the user the app might not work properly due to missing permissions
